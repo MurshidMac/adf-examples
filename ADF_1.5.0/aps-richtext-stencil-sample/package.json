@@ -78,7 +78,7 @@
     "ng2-alfresco-userinfo": "1.5.0",
     "ng2-alfresco-viewer": "1.5.0",
     "ng2-alfresco-webscript": "1.5.0",
-    "tinymce": "4.5.6"
+    "tinymce": "5.5.1"
   },
   "devDependencies": {
     "@types/hammerjs": "^2.0.34",
